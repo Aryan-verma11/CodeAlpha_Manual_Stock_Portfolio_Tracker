@@ -29,3 +29,29 @@ It also calculates the **percentage profit/loss** for each stock and for the who
        "HCL": [10, 1500, 1300],
        "Infosys": [15, 1300, 1200]
    }
+
+
+   "CompanyName": [Quantity, Buy Price, Current Price]
+
+📊 Stock Portfolio Report
+
+TCS:
+  Investment    = 38000
+  Current Value = 39900
+  P/L           = 1900 (5.00%)
+
+HCL:
+  Investment    = 15000
+  Current Value = 13000
+  P/L           = -2000 (-13.33%)
+
+Infosys:
+  Investment    = 19500
+  Current Value = 18000
+  P/L           = -1500 (-7.69%)
+
+📌 Portfolio Summary:
+  Total Investment    => 72500
+  Total Current Value => 70900
+  Total Profit/Loss   => -1600 (-2.21%)
+
